@@ -1,0 +1,13 @@
+# SSL Certificates
+*.pem
+key.pem
+cert.pem
+
+# Environment variables
+.env
+.env.local
+
+# Unity build files (optional)
+/Build/
+/Temp/
+/Library/
